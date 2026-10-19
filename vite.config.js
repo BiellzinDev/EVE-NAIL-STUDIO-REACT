@@ -17,8 +17,8 @@ export default defineConfig({
         name: 'Eve Nail Studio',
         short_name: 'Eve Studio',
         description: 'O espaço perfeito para você. Nail art para quem ama o diferente.',
-        theme_color: '#fdf8f6',
-        background_color: '#fdf8f6',
+        theme_color: 'transparent',
+        background_color: 'transparent',
         display: 'standalone',
         icons: [
           {
