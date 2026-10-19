@@ -4,7 +4,7 @@
 
 ✨ **O espaço perfeito para você. Nail art para quem ama o diferente.** ✨
 
-[🔗 Acesse a Demonstração Online](https://biellzindev.github.io/EVE-NAIL-STUDIO/)
+[🔗 Acesse a Demonstração Online]((https://eve-nail-studio-react.vercel.app/))
 
 </div>
 
@@ -41,10 +41,10 @@ Este projeto foi construído utilizando ferramentas modernas de desenvolvimento 
 
 Conheça alguns dos meus outros trabalhos e desenvolvimentos:
 
-* 🧩 [My Components](https://biellzindev.github.io/My-Components/)
-* 🌐 [Ser Digital](https://biellzindev.github.io/SerDigital/)
-* 🏨 [Hotel Angels](https://biellzindev.github.io/Angels-hostels/)
-* 🔐 [Tela de Login](https://biellzindev.github.io/Login/)
+* 🧩 [Weather-App](https://biellzindev.github.io/Weather-App/)
+* 🌐 [Sneaker Store](https://biellzindev.github.io/Sneaker-Store-com-Tailwind/)
+* 🏨 [Market Deserts](https://biellzindev.github.io/Market-Deserts/)
+* 🔐 [DigitalBank](https://biellzindev.github.io/DigitalBank/)
 * 📝 [Formulário de Cadastro](https://biellzindev.github.io/Formulario/)
 
 ---
@@ -55,6 +55,6 @@ Conheça alguns dos meus outros trabalhos e desenvolvimentos:
 
 ---
 
-## 🤝 Contribuição
+## 💼 Contato
 
-Este projeto foi desenvolvido com foco em portfólio e estudos práticos. Sugestões, críticas construtivas e ideias de melhoria são sempre muito bem-vindas!
+Projeto desenvolvido por **Gabriel** para fins comerciais e profissionais. Se deseja um site moderno para o seu negócio, entre em contato!
