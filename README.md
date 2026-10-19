@@ -1,19 +1,60 @@
-# React + Vite
+# 💅 Eve Nail Studio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<div align="center">
 
-Currently, two official plugins are available:
+✨ **O espaço perfeito para você. Nail art para quem ama o diferente.** ✨
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+[🔗 Acesse a Demonstração Online](https://eve-nail-studio-react.vercel.app/)
 
-## React Compiler
+</div>
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+---
 
-Note: This will impact Vite dev & build performances.
-You can also try [the experimental native React Compiler support in plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md#rust-react-compiler) by using `compiler: true` in the plugin options instead of using the Babel plugin.
+## 🚀 Sobre o Projeto
 
-## Expanding the ESLint configuration
+O **Eve Nail Studio** é uma aplicação web moderna, elegante e responsiva desenvolvida para um estúdio de manicure e design de unhas. O projeto foi pensado para transmitir sofisticação, destacando os serviços, agendamentos e a identidade visual única da marca através de uma experiência de usuário fluida.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+Este projeto foi construído utilizando ferramentas modernas de desenvolvimento Frontend:
+
+* **React.js** (com Vite para alta performance)
+* **Tailwind CSS** (para estilização rápida e responsiva)
+* **JavaScript (ES6+)**
+* **PWA (Progressive Web App)** (Permite que o site seja instalado como aplicativo no telemóvel/computador)
+
+---
+
+## ✨ Funcionalidades
+
+* 📱 **PWA Ready:** Pode ser instalado diretamente no ecrã inicial de dispositivos móveis e desktops.
+* 🎨 **Design Sofisticado:** Paleta de cores cuidadosamente selecionada e alinhada com o nicho de beleza.
+* 📱 **Totalmente Responsivo:** Adaptado perfeitamente para telemóveis, tablets e computadores.
+* ⚡ **Performance Otimizada:** Carregamento ultrarrápido graças ao empacotamento com Vite.
+* 🧩 **Componentes Modulares:** Estrutura de código limpa, organizada e reutilizável em React.
+
+---
+
+## 📂 Outros Projetos do Portfólio
+
+Conheça alguns dos meus outros trabalhos e desenvolvimentos:
+
+* 🧩 [Weather-App](https://biellzindev.github.io/Weather-App/)
+* 🌐 [Sneaker Store](https://biellzindev.github.io/Sneaker-Store-com-Tailwind/)
+* 🏨 [Market Deserts](https://biellzindev.github.io/Market-Deserts/)
+* 🔐 [DigitalBank](https://biellzindev.github.io/DigitalBank/)
+* 📝 [Formulário de Cadastro](https://biellzindev.github.io/Formulario/)
+
+---
+
+## 🏗️ Status do Projeto
+
+✅ **Concluído / Em melhorias contínuas** — Novas funcionalidades e otimizações visuais são implementadas regularmente.
+
+---
+
+## 💼 Contato
+
+Projeto desenvolvido por **Gabriel** para fins comerciais e profissionais. Se deseja um site moderno para o seu negócio, entre em contato!
