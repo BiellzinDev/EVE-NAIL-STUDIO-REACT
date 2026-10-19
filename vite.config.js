@@ -1,14 +1,40 @@
+import { defineConfig } from 'vite'
 import react, { reactCompilerPreset } from '@vitejs/plugin-react'
 import babel from '@rolldown/plugin-babel'
-import { defineConfig } from 'vite'
 import tailwindcss from '@tailwindcss/vite'
+import { VitePWA } from 'vite-plugin-pwa'
 
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [
     react(),
     tailwindcss(),
-    babel({ presets: [reactCompilerPreset()] })
+    babel({ presets: [reactCompilerPreset()] }),
+    VitePWA({
+      registerType: 'autoUpdate',
+      includeAssets: ['favicon.png', 'apple-touch-icon.png'],
+      manifest: {
+        name: 'Eve Nail Studio',
+        short_name: 'Eve Studio',
+        description: 'O espaço perfeito para você. Nail art para quem ama o diferente.',
+        theme_color: '#fdf8f6',
+        background_color: '#fdf8f6',
+        display: 'standalone',
+        icons: [
+          {
+            src: '/pwa-192x192.webp',
+            sizes: '192x192',
+            type: 'image/webp'
+          },
+          {
+            src: '/pwa-512x512.webp',
+            sizes: '512x512',
+            type: 'image/webp',
+            purpose: 'any maskable'
+          }
+        ]
+      }
+    })
   ],
-  base: "/",
+  base: '/',
 })
