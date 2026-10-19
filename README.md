@@ -4,7 +4,7 @@
 
 ✨ **O espaço perfeito para você. Nail art para quem ama o diferente.** ✨
 
-[🔗 Acesse a Demonstração Online]((https://eve-nail-studio-react.vercel.app/))
+[🔗 Acesse a Demonstração Online](https://eve-nail-studio-react.vercel.app/)
 
 </div>
 
