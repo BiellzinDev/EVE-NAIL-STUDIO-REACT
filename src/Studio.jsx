@@ -1,6 +1,7 @@
 import imgStudio1 from "../src/Images/Studio-cadeiras.webp"
 import imgStudio2 from "../src/Images/Studio-mesas.webp"
 import './index.css'
+import TesteEmail from "./TesteEmail"
 
 function Studio(){
     return(

@@ -24,7 +24,7 @@ function Home() {
 
     return (
         <section className="flex items-center justify-center flex-col bg-[#f3ebe3] font-[Montserrat] w-full relative xl:pb-12">
-            <button onClick={handleWhatsAppClick} className=" hidden btn-whats text-center p-2 xl:items-center xl:justify-center font-semibold text-[1rem] cursor-pointer hover:opacity-[.5] xl:flex fixed xl:top-150 xl:right-0  leading-none xl:z-20"><i class="fi fi-brands-whatsapp-circle text-5xl text-(--whats)"></i></button>
+            <button onClick={handleWhatsAppClick} className=" hidden btn-whats text-center p-2 xl:items-center xl:justify-center font-semibold text-[1rem] cursor-pointer hover:opacity-[.5] xl:flex fixed xl:top-150 xl:right-0  leading-none xl:z-20"><i className="fi fi-brands-whatsapp-circle text-5xl text-(--whats)"></i></button>
             <section className="flex hero relative flex-col w-full h-96 text-white justify-end text-center mt-20 md:mt-0 md:h-152">
                 <picture className="absolute md:w-full md:flex md:justify-center md:items-center md:relative">
                     <img src={ImgHero} className="Imagem Hero mt-20 md:hidden"/>

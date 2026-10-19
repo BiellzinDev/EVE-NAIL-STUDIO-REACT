@@ -98,7 +98,7 @@ function Faq() {
 
   return (
     <section id="faq" className="todo flex flex-col overflow-x-hidden font-[Montserrat] justify-start items-center text-center xl:w-4/5">
-      <section className="flex flex-col gap-4 w-[90%] pb-4 spa-section bg-(--fundo-faq) items-center justify-start mt-20 mb-20 rounded-2xl pt-8 md:mt-24">
+      <section className="flex flex-col gap-4 w-[90%] pb-4 spa-section bg-(--fundo-faq) items-center justify-start mt-20 mb-20 rounded-2xl pt-8 md:mt-24 xl:max-w-6xl">
         <h2 className='text-center w-full text-[2rem] uppercase text-(--rose) font-bold'>FAQ</h2>
         <p className=" w-[80%] text-center text-(--marrom) font-semibold">Tire suas dúvidas sobre nossos serviços, agendamentos e muito mais</p>
         
