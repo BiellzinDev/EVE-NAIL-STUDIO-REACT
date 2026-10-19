@@ -10,5 +10,5 @@ export default defineConfig({
     tailwindcss(),
     babel({ presets: [reactCompilerPreset()] })
   ],
-  base: "/EVE-NAIL-STUDIO-REACT/",
+  base: "/",
 })
