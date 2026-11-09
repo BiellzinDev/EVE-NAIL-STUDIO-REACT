@@ -114,7 +114,7 @@ function Feedback() {
             <article className="box-feed flex w-[95%] flex-col items-start gap-2">
               <article className="flex justify-center gap-[.3rem] items-baseline">
                 <picture>
-                  <i className="fi fi-rr-user icon-user font-bold text-[2rem] text-(--rose)"></i>
+                  <i className="fi fi-rr-user icon-user font-bold text-[1rem] text-(--rose) flex"></i>
                 </picture>
                 <label htmlFor="nome" className="text-2xl font-bold text-[1.2rem] text-(--rose)">
                   Seu nome:
@@ -138,7 +138,7 @@ function Feedback() {
             <article className="box-feed flex w-[95%] flex-col items-start gap-2">
               <article className="flex justify-center gap-[.3rem] items-baseline">
                 <picture>
-                  <i className="fi fi-rr-smile icon-rosto font-bold text-[2rem] text-(--rose)"></i>
+                  <i className="fi fi-rr-smile icon-rosto font-bold text-[1rem] text-(--rose) flex"></i>
                 </picture>
                 <label htmlFor="experiencia" className="text-2xl font-bold text-[1.2rem] text-(--rose)">
                   Experiência:
@@ -169,9 +169,9 @@ function Feedback() {
             <article className="box-feed flex w-[95%] flex-col items-start gap-2">
               <article className="flex justify-center gap-[.3rem] items-baseline">
                 <picture>
-                  <i className="fi fi-rr-comment icon-feedb font-bold text-[2rem] text-(--rose)"></i>
+                  <i className="fi fi-rr-comment icon-feedb font-bold text-[1rem] text-(--rose) flex"></i>
                 </picture>
-                <label htmlFor="comentario" className="text-2xl font-bold text-[1.2rem] text-(--rose)">
+                <label htmlFor="comentario" className=" font-bold text-[1.2rem] text-(--rose)">
                   Seu comentário:
                 </label>
               </article>

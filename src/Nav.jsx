@@ -21,7 +21,7 @@ function Nav({ activeSection, setActiveSection }) {
 
   return (
     <nav className="nav flex w-full fixed h-fit bottom-0 rounded-t-xlp py-2 justify-center items-center md:hidden">
-      <article className='relative flex w-[95%] justify-end items-center bg-(--fundo-claro) rounded-4xl h-16 shadow-(--shadow-nav) opacity-90'>
+      <article className='relative flex w-[95%] justify-end items-center bg-(--fundo-claro) rounded-4xl h-14 shadow-(--shadow-nav) opacity-90'>
         <article className='flex w-full items-center justify-evenly absolute z-10'>
           {NAV_ITEMS.map((item) => {
             const isActive = activeSection === item.id
@@ -37,7 +37,7 @@ function Nav({ activeSection, setActiveSection }) {
                 <i
                   className={`fi ${
                     isActive ? `fi-sr-${item.icon}` : `fi-rr-${item.icon}`
-                  } icon-${item.id} text-(--rose) text-[2.5rem] leading-0`}
+                  } icon-${item.id} flex text-(--rose) text-[1.5rem] leading-0`}
                 ></i>
               </a>
             )

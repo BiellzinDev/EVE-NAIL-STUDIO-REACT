@@ -49,9 +49,10 @@ function Contato(){
                     <section className='flex flex-col pt-8'>
                         <p className='text-(--rose) text-center font-semibold'>Atendimento apenas com horário marcado!</p>
                         <h2 className="pt-4 pb-2 font-bold text-(--rose) text-center">Siga-nos nas redes sociais</h2>
-                        <picture className='text-center py-4'>
-                            <i className="fi fi-brands-instagram text-(--rose) text-[2rem]"></i>
-                        </picture>
+                        <article className='flex w-full items-center justify-center gap-2 text-center py-4'>
+                            <i className="fi fi-brands-instagram text-(--rose) text-[2rem] flex"></i>
+                            <a href="https://www.instagram.com/eve.nailstudio/" target="_blank" className='text-(--marrom) no-underline text-[1rem] font-bold'> @eve.nailstudio</a>
+                        </article>
                     </section>
                 </section>
             </section>

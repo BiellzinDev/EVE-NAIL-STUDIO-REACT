@@ -46,8 +46,8 @@ function Home() {
 
             <section className="flex w-[90%] text-center mt-4 flex-col items-center justify-center md:w-full md:justify-center md:items-center md:mt-8">
                 <section className="box-service flex w-full overflow-x-auto gap-4 p-1 scroll-smooth md:justify-between md:items-center md:w-[90%] md:bg-(--fundo-service) md:p-4 md:rounded-2xl xl:flex-wrap">
-                    <article className="flex box-unhas snap-start grow-0 shrink-0 basis-80 h-64 flex-col rounded-2xl text-white justify-end text-center md:w-50 xl:basis-[32%]">
-                        <figure className="flex w-full relative flex-col justify-end items-end">
+                    <article className="flex box-unhas w-full snap-start grow-0 shrink-0 basis-80 h-64 flex-col rounded-2xl text-white justify-end text-center md:w-50 xl:basis-[32%]">
+                        <figure className="flex w-full relative flex-col justify-end items-end flex-1">
                             <img className="w-full object-fill h-64 rounded-2xl " src={imgNailArt} alt="Imagem de unhas Nail art"/>
                             <figcaption className="flex justify-center absolute w-full">
                                 <h3 className="text-white text-[1rem] w-2/4 pb-4 font-bold text-shadow-(--shadow-unhas)">Nail art</h3>
